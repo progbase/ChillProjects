@@ -1,6 +1,6 @@
-##  TeamChill
+#   TeamChill
 
-Team members:
+## Team members:
 
     1) Козак Микола (Product Owner)
     2) Шапошник Богдан (ScrumMaster)
