@@ -13,7 +13,7 @@
 
  ![teamlogo](https://user-images.githubusercontent.com/47568507/52844166-a63e9a80-310c-11e9-926f-c188f31485e6.jpg)
 
-####   [Our team link](https://github.com/progbase/ChillProjects)  
+####   [Our team link](https://github.com/orgs/progbase/teams/team-chill) 
 
 ####  Our project:
 
@@ -22,3 +22,4 @@
 ####  [Project link](https://github.com/orgs/progbase/projects/8)
 ####  [List of details](https://docs.google.com/spreadsheets/d/1k3c81QdA3LiKYz2QmPCBb-pNQtNbF1K70HmR1if5axk/edit?usp=sharing)
 ####  [Presentation](https://docs.google.com/presentation/d/1f_KVaQNKkFv0bcAar8zt5-yv105-SQocj1BVu4mv-hw/edit#slide=id.g4fb11449bd_0_46)
+####  [Backlog](https://docs.google.com/spreadsheets/d/1Ny-xPChf-VtyrRTfPZE_ecSWgw-I6Ve6-dQP9J45IBU/edit?usp=sharing)
