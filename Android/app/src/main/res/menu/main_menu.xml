@@ -1,0 +1,59 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ControlActivity">
+
+
+    <item
+        android:id="@+id/action_voice"
+        android:checkable="true"
+        android:orderInCategory="100"
+        android:title="@string/voice_control"
+        android:iconTint="@color/colorGreen"
+        app:actionViewClass="android.widget.CheckBox"
+
+        />
+
+    <!--<item-->
+        <!--android:id="@+id/action_exit"-->
+        <!--android:orderInCategory="100"-->
+        <!--android:title="@string/exit" />-->
+
+    <!--<item android:id="@+id/action_settings"-->
+    <!--android:title="@string/action_settings"-->
+    <!--android:orderInCategory="100"-->
+    <!--app:showAsAction="never"/>-->
+
+
+    <!--<item android:id="@+id/action_camera"-->
+    <!--android:title="Camera"-->
+    <!--android:orderInCategory="100"-->
+    <!--app:showAsAction="never"/>-->
+
+    <!--<item-->
+    <!--android:id="@+id/action_logout"-->
+    <!--android:title="Logout"-->
+    <!--android:orderInCategory="100"-->
+    <!--app:showAsAction="never"/>-->
+
+    <!--<item-->
+    <!--android:id="@+id/action_refresh"-->
+    <!--android:title="Refresh"-->
+    <!--android:orderInCategory="100"-->
+    <!--android:icon="@drawable/ic_action_refresh"-->
+    <!--app:showAsAction="always"/>-->
+
+    <!--<item-->
+    <!--android:id="@+id/action_delete"-->
+    <!--android:title="Delete"-->
+    <!--android:orderInCategory="100"-->
+    <!--android:icon="@drawable/ic_action_discard"-->
+    <!--app:showAsAction="ifRoom"/>-->
+
+
+</menu>
+
+
+    <!--<item--><!--android:id="@+id/test1"--><!--android:checkable="true"--><!--android:title="@string/test1"--><!--app:actionViewClass="android.widget.CheckBox"-->
+
+    <!--/>-->

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ChillCrawler</string>
+    <string name="please_establish_connection_to_the_spider">Please establish connection to the spider !</string>
+    <string name="connect">Connect</string>
+    <string name="voice_control">Voice control</string>
+    <string name="exit">Exit</string>
+    <string name="test3">test3</string>
+    <string name="stand"><b>STAND</b> </string>
+    <string name="sit"><b>SIT</b> </string>
+    <string name="wave"><b>WAVE</b> </string>
+    <string name="Commands_list"><b>1.Move Forward\n2.Move Back\n3.Turn Left\n4.Turn Right\n5.Stand Up\n6.Sit Down\n7.Wave\n8.Flex\n9.Shake</b></string>
+
+
+
+</resources>
