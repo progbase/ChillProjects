@@ -28,3 +28,4 @@
 ####  [Sprint №2 presentation](https://docs.google.com/presentation/d/1Z3C6GPuwfjyrNBYU_x5BtJYPtIke0YcSn3GtU6JLnek/edit?usp=sharing)
 ####  [Retrospective](https://docs.google.com/spreadsheets/d/1fL3qHy0_3Il6eJRnfqdvc-Mx5pljp51RPMuJWDzYmz8/edit#gid=0)
 ####  [Final documentation](https://docs.google.com/document/d/1RQ2ZT5Cs7XvUTV5app129FPn696tC1JIAiiJIFOKbkw/edit#)
+####  [Video](https://youtu.be/R0btTN6_oas)
